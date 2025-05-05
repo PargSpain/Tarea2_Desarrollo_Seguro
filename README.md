@@ -3,10 +3,10 @@ El presente repositorio se ha creado con fines educativos para una tarea de la a
 # Aplicación To Do con Docker y SDLC Seguro
 
 # Autores:
- Francisco Javier Cano Sánchez
+ - Francisco Javier Cano Sánchez
  - Neil Lonely Ngueyou Simo
  - Mario Martín Peredo
-# UEM
+        UEM
 
 
 ## Descripción
