@@ -4,8 +4,8 @@ El presente repositorio se ha creado con fines educativos para una tarea de la a
 
 # Autores:
  Francisco Javier Cano Sánchez
- Neil Lonely Ngueyou Simo
- Mario Martín Peredo
+ - Neil Lonely Ngueyou Simo
+ - Mario Martín Peredo
 # UEM
 
 
