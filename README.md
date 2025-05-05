@@ -16,7 +16,7 @@ La aplicación se ejecuta localmente en Windows 11 utilizando Docker Desktop y e
 
 ## Cómo Ejecutar la Aplicación
 
-1.  Asegúrate de tener Docker Desktop instalado en tu sistema Windows 11.
+1.  Asegúrate de tener Docker Desktop instalado.
 2.  Clona este repositorio:
     ```bash
     git clone <URL_de_tu_repositorio>
